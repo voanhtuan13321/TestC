@@ -2,6 +2,10 @@
 #include <string.h>
 using namespace std;
 
+/*
+	minh chi thu nghiem thoi
+*/
+
 struct SinhVien {
 	char maSV[50];
 	char tenSV[50];
